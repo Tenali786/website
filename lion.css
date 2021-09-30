@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: rgb(43, 50, 58);
+}
+.title{
+    position: absolute;
+    top: 2%;
+    left: 68%;
+    color: white;
+}
+
+.background{
+
+        position: absolute;
+        left: 55%;
+        width: 600PX;
+        height: 650;
+        filter: blur(1px);
+        height: 655px;
+    
+}
+
+.subtitle{
+    position: absolute;
+    top: 20%;
+    left: 21%;
+    color: white;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Templetes{
+    position: absolute;
+    top: 28%;
+    left: 9%;
+    color: white;
+    font-size: 20px;
+}
+
+.Templetes1{
+    position: absolute;
+    top: 28%;
+    left:31%;
+    color: white;
+    font-size: 20px;
+    color: greenyellow;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.days{
+    position: absolute;
+    top: 43%;
+    left: 5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 100px;
+    
+    text-align: center;
+    
+    color: rgb(245, 245, 245);
+    background: rgb(91, 92, 97);
+}
+.days1{
+    position: absolute;
+    top: 48%;
+    left: 6%;
+    
+    color: white;
+}
+
+.Month{
+    position: absolute;
+    top: 43%;
+    left: 15.5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 100px;
+    
+    text-align: center;
+    
+    color: rgb(245, 245, 245);
+    background: rgb(91, 92, 97);
+}
+
+
+.Minuts{
+    position: absolute;
+    top: 43%;
+    left: 26.5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 100px;
+    
+    text-align: center;
+    
+    color: rgb(245, 245, 245);
+    background: rgb(91, 92, 97);
+}
+
+
+.Second{
+    position: absolute;
+    top: 43%;
+    left: 37.5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 100px;
+    
+    text-align: center;
+    
+    color: rgb(245, 245, 245);
+    background: rgb(91, 92, 97);
+}
